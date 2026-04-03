@@ -2,3 +2,5 @@
 .firecrawl/
 .playwright-mcp/
 .claude/worktrees/
+config.bat
+node_modules
